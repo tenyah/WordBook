@@ -1,4 +1,4 @@
-# 📚 WordBook (Word + quiz)
+# 📚 WordBook (Word + Quiz)
 
 > **외우고 싶은 단어만, 나만의 단어장으로.**
 
